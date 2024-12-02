@@ -1,0 +1,39 @@
+body,h1 {
+color: #91928E;
+background: #1E1E1D;
+align: center;
+text-align: center
+}
+h1{
+color:red;}
+div {
+font-size: 22px;
+}
+.flexbox {
+display: -webkit-flex;
+display: flex;
+justify-content: center;
+align-content: flex-start;
+}
+.text-box {
+width: 33%;
+height: 500px;
+}
+form {
+width: 33%;
+height: 500px;
+}
+button {
+width: 100%;
+height: 500px;
+align: center;
+text-align: center
+background-position: center;
+background-size: 500px 500px;
+}
+#id1{
+background-image: url('./image/frost.jpg');}
+#id2{
+background-image: url('./image/blood.jpg');}
+#id3{
+background-image: url('./image/unholy.jpeg');}

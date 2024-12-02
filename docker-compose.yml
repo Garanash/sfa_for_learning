@@ -1,0 +1,8 @@
+version: '3'
+services:
+  server:
+    build: server/
+    command: python ./server.py
+    ports:
+      - "7890:7890"
+    restart: unless-stopped
