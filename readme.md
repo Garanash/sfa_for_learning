@@ -8,7 +8,7 @@
 # Запуск приложения
 
 ```bash
-git clone {repo} sf_project
+git clone https://github.com/Garanash/sfa_for_learning.git sf_project
 cd sf_project
 docker-compose up --build
 
